@@ -1,0 +1,30 @@
+{
+  "name": "yards-to-meters",
+  "title": "yardstometers.js",
+  "version": "1.0.0",
+  "main": "yardstometers.js",
+  "description": "Converts yards to meters",
+  "devDependencies": {
+    "jasmine": "latest"
+  },
+  "repository": "joshause/yardstometers",
+  "keywords": [
+    "yards to meters",
+    "yardstometers",
+    "yards-to-meters",
+    "yardstometers.js",
+    "yard to meter",
+    "joshause"
+  ],
+  "author": "Josh Ause",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "jasmine tests/*.js"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshause/yardstometers/issues"
+  }
+}
