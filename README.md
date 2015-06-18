@@ -2,6 +2,9 @@
 
 JavaScript conversion of yards to meters.
 
+[![Build Status](https://travis-ci.org/joshause/yardstometers.svg?branch=master)](https://travis-ci.org/joshause/yardstometers)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 ## Usage
 
 ### Node.js
